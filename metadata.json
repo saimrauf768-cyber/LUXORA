@@ -1,0 +1,6 @@
+{
+  "name": "LUXORA WATCHES - 3D Luxury Watch E-Commerce & Showroom",
+  "description": "Ultra-premium 3D luxury watch e-commerce experience inspired by Rolex, Patek Philippe, and Audemars Piguet with interactive 360° Three.js showroom, catalog, and admin studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
